@@ -40,3 +40,16 @@ body{
     color: rgba(119, 119, 119, 1);
     font-size: 16px;
 }
+/* Register Section */
+.register-section{
+    background-color: rgba(40, 155, 222, 1);
+    min-height: 300px;
+    /* padding: 150px; */
+}
+/* FAQ Section */
+.faq{
+    margin-top: 100px;
+}
+.question-area{
+    margin-top: 70px;
+}
